@@ -9,7 +9,8 @@
 A complete serverless JMAP email server that runs in your own AWS account, for small companies already on AWS.
 
 - **Install:** [docs.serverlessinbox.com](https://docs.serverlessinbox.com)
-- **Issues and questions:** [serverlessinbox/serverlessinbox](https://github.com/serverlessinbox/serverlessinbox), the one place for every component
+- **Issues:** [serverlessinbox/serverlessinbox](https://github.com/serverlessinbox/serverlessinbox/issues), the one place for every component
+- **Questions and ideas:** [Discussions](https://github.com/orgs/serverlessinbox/discussions)
 
 | Repo | What it is |
 |---|---|
