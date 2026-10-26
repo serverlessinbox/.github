@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="logo-light.svg">
+  <img src="logo-light.svg" alt="ServerlessInbox" width="320">
+</picture>
+
 # ServerlessInbox
 
 A complete serverless JMAP email server that runs in your own AWS account, for small companies already on AWS.
