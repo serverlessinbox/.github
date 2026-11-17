@@ -14,8 +14,8 @@ A complete serverless JMAP email server that runs in your own AWS account, for s
 
 | Repo | What it is |
 |---|---|
-| [mailbox-cdk](https://github.com/serverlessinbox/mailbox-cdk) | CDK constructs, the infrastructure |
-| [mailbox-idl](https://github.com/serverlessinbox/mailbox-idl) | JMAP JSON schemas, admin API protobuf, source of the generated SDKs |
+| [mail-server-cdk](https://github.com/serverlessinbox/mail-server-cdk) | CDK constructs, the infrastructure |
+| [mail-server-idl](https://github.com/serverlessinbox/mail-server-idl) | JMAP JSON schemas, admin API protobuf, source of the generated SDKs |
 | [artifact-registry](https://github.com/serverlessinbox/artifact-registry) | Release artifact resolution |
 
 Public beta, provided as-is without warranty. Terms and status are in the [front-door README](https://github.com/serverlessinbox/serverlessinbox#readme).
